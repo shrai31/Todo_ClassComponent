@@ -1,0 +1,14 @@
+body {
+  padding: 50px;
+  background-color: whitesmoke;
+  font-family: sans-serif;
+}
+.theList {
+  list-style: none;
+  padding-left: 0;
+  width: 255px;
+}
+/* container {
+  display: flex;
+  justify-content: center;
+} */
